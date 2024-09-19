@@ -9,7 +9,10 @@ and so on..
 
 ![image](https://github.com/user-attachments/assets/c34bb6b4-5e88-461d-b149-bf19c7f0eae7)
 
+After iterated deletion of high VIF features we are left with:
 ![image](https://github.com/user-attachments/assets/c8752294-14fb-4c18-94ea-b90401d4f45b)
+
+High VIF values for independent features introduce multicollinearity which is very bad for all the models used in this repo.
 
 ## Linear Regression Coeficient importance (Model interpretation in percentage chance of churn)
 
